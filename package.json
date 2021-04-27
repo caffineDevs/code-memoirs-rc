@@ -1,6 +1,6 @@
 {
   "name": "code-memoirs",
-  "homepage": "http://caffinedevs.github.io/code-memoirs-rc-frontend",
+  "homepage": "http://caffinedevs.github.io/code-memoirs-rc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
